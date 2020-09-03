@@ -1,11 +1,8 @@
+[![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-808-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+
 # LeetCode
 The C# solutions for LeetCode problems.
-
-### Algorithm
-
-| Languages | Build Status | Solved Problems |
-| --------- | ------------ | --------------- |
-|C#|[![Windows Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode.svg?style=flat-square&label=Windows%20Build)](https://ci.appveyor.com/project/bigegg/leetcode/branch/csharp)|[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-808-blue.svg?style=flat-square)](https://github.com/BigEgg/LeetCode/tree/CSharp)|
 
 ## Problems
 
