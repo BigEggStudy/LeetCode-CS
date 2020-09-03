@@ -10,7 +10,7 @@ namespace LeetCode.Test
         {
             var solution = new _1247_MinimumSwapsToMakeStringsEqual();
             var result = solution.MinimumSwap("xx", "yy");
-            Assert.AreEqual(2, result);
+            Assert.AreEqual(1, result);
         }
 
         [TestMethod]

@@ -10,7 +10,7 @@ namespace LeetCode.Test
         {
             var solution = new _0368_LargestDivisibleSubset();
             var result = solution.LargestDivisibleSubset(new int[] { 1, 2, 3 });
-            AssertHelper.AssertList(new int[] { 1, 2 }, result);
+            AssertHelper.AssertList(new int[] { 2, 1 }, result);
         }
 
         [TestMethod]
@@ -18,7 +18,7 @@ namespace LeetCode.Test
         {
             var solution = new _0368_LargestDivisibleSubset();
             var result = solution.LargestDivisibleSubset(new int[] { 1, 2, 4, 8 });
-            AssertHelper.AssertList(new int[] { 1, 2, 4, 8 }, result);
+            AssertHelper.AssertList(new int[] { 8, 4, 2, 1 }, result);
         }
     }
 }

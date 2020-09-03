@@ -144,17 +144,5 @@ namespace LeetCode.Test
             Assert.IsTrue(result.Contains("cy"));
             Assert.IsTrue(result.Contains("cz"));
         }
-
-        [TestMethod]
-        public void LetterCombinationsTest_WithInvalidChar()
-        {
-            var solution = new _017_LetterCombinationsOfAPhoneNumber();
-
-            var result = solution.LetterCombinations("29A");
-            Assert.AreEqual(0, result.Count);
-
-            result = solution.LetterCombinations("a29");
-            Assert.AreEqual(0, result.Count);
-        }
     }
 }
