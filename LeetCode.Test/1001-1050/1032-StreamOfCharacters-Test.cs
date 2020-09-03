@@ -34,7 +34,7 @@ namespace LeetCode.Test
         }
 
         [TestMethod]
-        [Timeout(50)]
+        [Timeout(100)]
         public void StreamCheckerTest_3()
         {
             var input = new string[500];
