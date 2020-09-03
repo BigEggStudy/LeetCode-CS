@@ -359,7 +359,7 @@
     <Compile Include="0401-0450\0428-SerializeAndDeserializeNAryTree-Test.cs" />
     <Compile Include="0401-0450\0429-NAryTreeLevelOrderTraversal-Test.cs" />
     <Compile Include="0401-0450\0430-FlattenAMultilevelDoublyLinkedList-Test.cs" />
-    <Compile Include="0401-0450\0432-AllO`OneDataStructure-Test.cs" />
+    <Compile Include="0401-0450\0432-AllOOneDataStructure-Test.cs" />
     <Compile Include="0401-0450\0434-NumberOfSegmentsInAString-Test.cs" />
     <Compile Include="0401-0450\0435-NonOverlappingIntervals-Test.cs" />
     <Compile Include="0401-0450\0436-FindRightInterval-Test.cs" />
