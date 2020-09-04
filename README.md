@@ -600,7 +600,7 @@ The C# solutions for LeetCode problems.
 | 759 | Employee Free Time | [C#](./LeetCode/0751-0800/0759-EmployeeFreeTime.cs)(432ms) | O(NlogN) | O(N) | |
 | 760 | Find Anagram Mappings | [C#](./LeetCode/0751-0800/0760-FindAnagramMappings.cs)(236ms) | O(N^2) | O(N) | |
 | 762 | Prime Number of Set Bits in Binary Representation | [C#](./LeetCode/0751-0800/0762-PrimeNumberOfSetBitsInBinaryRepresentation.cs)(48ms) | O(N) | O(1) | |
-| 763 | Partition Labels | [C#](./LeetCode/0751-0800/0763-PartitionLabels.cs)(228ms) | O(N) | O(1) | |
+| 763 | Partition Labels | [C#](./LeetCode/0751-0800/0763-PartitionLabels.cs)(224ms) | O(N) | O(1) | |
 | 765 | Couples Holding Hands | [C#](./LeetCode/0751-0800/0765-CouplesHoldingHands.cs)(92ms) | O(N) | O(N) | |
 | 766 | Toeplitz Matrix | [C#](./LeetCode/0751-0800/0766-ToeplitzMatrix.cs)(96ms) | O(M*N) | O(1) | |
 | 767 | Reorganize String | [C#](./LeetCode/0751-0800/0767-ReorganizeString.cs)(84ms) | O(N) | O(1) | |
