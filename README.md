@@ -917,7 +917,7 @@ The C# solutions for LeetCode problems.
 |---| ----- | --------- | ---- | ----- | -------- |
 | 1302 | Deepest Leaves Sum | [C#](./LeetCode/1301-1350/1302-DeepestLeavesSum.cs)(116ms) | O(N) | O(N) | |
 | 1304 | Find N Unique Integers Sum up to Zero | [C#](./LeetCode/1301-1350/1304-FindNUniqueIntegersSumUpToZero.cs)(200ms) | O(logN) | O(N) | |
-| 1305 | All Elements in Two Binary Search Trees | [C#](./LeetCode/1301-1350/1305-AllElementsInTwoBinarySearchTrees.cs)(376ms) | O(N+M) | O(N+M) | |
+| 1305 | All Elements in Two Binary Search Trees | [C#](./LeetCode/1301-1350/1305-AllElementsInTwoBinarySearchTrees.cs)(360ms) | O(N+M) | O(N+M) | |
 | 1306 | Jump Game III | [C#](./LeetCode/1301-1350/1306-JumpGameIII.cs)(116ms) | O(N) | O(N) | |
 | 1309 | Decrypt String from Alphabet to Integer Mapping | [C#](./LeetCode/1301-1350/1309-DecryptStringFromAlphabetToIntegerMapping.cs)(76ms) | O(N) | O(N) | |
 | 1310 | XOR Queries of a Subarray | [C#](./LeetCode/1301-1350/1310-XORQueriesOfASubarray.cs)(464ms) | O(N) | O(1) | |
