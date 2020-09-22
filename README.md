@@ -106,7 +106,7 @@ The C# solutions for LeetCode problems.
 | 54 | Spiral Matrix | [C#](./LeetCode/0051-0100/054-SpiralMatrix.cs)(476ms) | O(N) | O(1) | |
 | 55 | Jump Game | [C#](./LeetCode/0051-0100/055-JumpGame.cs)(96ms) | O(N) | O(1) | Use Greedy Algorithm |
 | 56 | Merge Intervals | [C#](./LeetCode/0051-0100/056-MergeIntervals.cs)(256ms) | O(NLogN) | O(1) | |
-| 57 | Insert Interval | [C#](./LeetCode/0051-0100/057-InsertInterval.cs)(544ms) | O(N) | O(N) | |
+| 57 | Insert Interval | [C#](./LeetCode/0051-0100/057-InsertInterval.cs)(252ms) | O(N) | O(N) | |
 | 58 | Length of Last Word | [C#](./LeetCode/0051-0100/058-LengthOfLastWord.cs)(72msms) | O(N) | O(1) | |
 | 59 | Spiral Matrix II | [C#](./LeetCode/0051-0100/059-SpiralMatrix2.cs)(48ms) | O(N<sup>2</sup>) | O(N<sup>2</sup>) | |
 | 60 | Permutation Sequence | [C#](./LeetCode/0051-0100/060-PermutationSequence.cs)(80ms) | O(N) | (N) | Use Cantor Expansion (Introduction to Algorithms, MIT) |
