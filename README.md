@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-816-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-817-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -569,6 +569,7 @@ The C# solutions for LeetCode problems.
 | 704 | Binary Search | [C#](./LeetCode/0701-0750/0704-BinarySearch.cs)(120ms) | O(logN) | O(1) | |
 | 705 | Design HashSet | [C#](./LeetCode/0701-0750/0705-DesignHashset.cs)(228ms) | | | |
 | 706 | Design HashMap | [C#](./LeetCode/0701-0750/0706-DesignHashmap.cs)(260ms) | | | |
+| 708 | Insert into a Sorted Circular Linked List | [C#](./LeetCode/0701-0750/0708-InsertIntoASortedCircularLinkedList.cs)(92ms) | O(N) | O(1) | |
 | 709 | To Lower Case | [C#](./LeetCode/0701-0750/0709-ToLowerCase.cs)(76ms) | O(N) | O(1) | |
 | 715 | Range Module | [C#](./LeetCode/0701-0750/0715-RangeModule.cs)(488ms) | O(N) | O(N) | |
 | 716 | Max Stack | [C#](./LeetCode/0701-0750/0716-MaxStack.cs)(188ms) | O(1) | O(N) | |

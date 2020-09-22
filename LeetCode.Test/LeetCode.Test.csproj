@@ -493,6 +493,7 @@
     <Compile Include="0701-0750\0704-BinarySearch-Test.cs" />
     <Compile Include="0701-0750\0705-DesignHashset-Test.cs" />
     <Compile Include="0701-0750\0706-DesignHashmap-Test.cs" />
+    <Compile Include="0701-0750\0708-InsertIntoASortedCircularLinkedList-Test.cs" />
     <Compile Include="0701-0750\0709-ToLowerCase-Test.cs" />
     <Compile Include="0701-0750\0715-RangeModule-Test.cs" />
     <Compile Include="0701-0750\0716-MaxStack-Test.cs" />
