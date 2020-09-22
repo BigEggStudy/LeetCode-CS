@@ -234,6 +234,7 @@
     <Compile Include="0201-0250\0211-AddAndSearchWordDataStructureDesign-Test.cs" />
     <Compile Include="0201-0250\0212-WordSearchII-Test.cs" />
     <Compile Include="0201-0250\0215-KthLargestElementInAnArray-Test.cs" />
+    <Compile Include="0201-0250\0216-CombinationSumIII-Test.cs" />
     <Compile Include="0201-0250\0217-ContainsDuplicate-Test.cs" />
     <Compile Include="0201-0250\0218-TheSkylineProblem-Test.cs" />
     <Compile Include="0201-0250\0219-ContainsDuplicateII-Test.cs" />

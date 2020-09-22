@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-811-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-812-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -250,6 +250,7 @@ The C# solutions for LeetCode problems.
 | 211 | Add and Search Word - Data structure design | [C#](./LeetCode/0201-0250/0211-AddAndSearchWordDataStructureDesign.cs)(272ms) | O(1) | O(N) | |
 | 212 | Word Search II | [C#](./LeetCode/0201-0250/0212-WordSearchII.cs)(272ms) | O(N*M) | O(K) | |
 | 215 | Kth Largest Element in an Array | [C#](./LeetCode/0201-0250/0215-KthLargestElementInAnArray.cs)(100ms) | O(NLogN) | O(1) | |
+| 216 | Combination Sum III | [C#](./LeetCode/0201-0250/0216-CombinationSumIII.cs)(200ms) | O(9! * K / (9-K)!) | O(K) | |
 | 217 | Contains Duplicate | [C#](./LeetCode/0201-0250/0217-ContainsDuplicate.cs)(112ms) | O(N) | O(N) | |
 | 218 | The Skyline Problem | [C#](./LeetCode/0201-0250/0218-TheSkylineProblem.cs)(288ms) | O(NLogN) | O(N) | |
 | 219 | Contains Duplicate II | [C#](./LeetCode/0201-0250/0219-ContainsDuplicateII.cs)(100ms) | O(N) | O(N) | |
