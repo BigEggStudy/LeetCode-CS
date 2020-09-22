@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-815-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-816-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -806,6 +806,7 @@ The C# solutions for LeetCode problems.
 | 1086 | High Five | [C#](./LeetCode/1051-1100/1086-HighFive.cs)(236ms) | O(NlogN) | O(N) | |
 | 1087 | Brace Expansion | [C#](./LeetCode/1051-1100/1087-BraceExpansion.cs)(284ms) | O(N<sup>2</sup>) | O(N) | |
 | 1089 | Duplicate Zeros | [C#](./LeetCode/1051-1100/1089-DuplicateZeros.cs)(248ms) | O(N) | O(1) | |
+| 1094 | Car Pooling | [C#](./LeetCode/1051-1100/1094-CarPooling.cs)(100ms) | O(1) | O(1) | |
 | 1096 | Brace Expansion II | [C#](./LeetCode/1051-1100/1096-BraceExpansionII.cs)(308ms) | O(N) | ? | |
 | 1099 | Two Sum Less Than K | [C#](./LeetCode/1051-1100/1099-TwoSumLessThanK.cs)(88ms) | O(NlogN) | O(1) | |
 | 1100 | Find K-Length Substrings With No Repeated Characters | [C#](./LeetCode/1051-1100/1100-FindKLengthSubstringsWithNoRepeatedCharacters.cs)(80ms) | O(N) | O(K) | |

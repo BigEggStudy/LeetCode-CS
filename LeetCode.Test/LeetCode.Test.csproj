@@ -689,6 +689,7 @@
     <Compile Include="1051-1100\1086-HighFive-Test.cs" />
     <Compile Include="1051-1100\1087-BraceExpansion-Test.cs" />
     <Compile Include="1051-1100\1089-DuplicateZeros-Test.cs" />
+    <Compile Include="1051-1100\1094-CarPooling-Test.cs" />
     <Compile Include="1051-1100\1096-BraceExpansionII-Test.cs" />
     <Compile Include="1051-1100\1099-TwoSumLessThanK-Test.cs" />
     <Compile Include="1051-1100\1100-FindKLengthSubstringsWithNoRepeatedCharacters-Test.cs" />
