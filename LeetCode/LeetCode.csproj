@@ -397,6 +397,7 @@
     <Compile Include="0501-0550\0506-RelativeRanks.cs" />
     <Compile Include="0501-0550\0507-PerfectNumber.cs" />
     <Compile Include="0501-0550\0509-FibonacciNumber.cs" />
+    <Compile Include="0501-0550\0510-InorderSuccessorInBSTII.cs" />
     <Compile Include="0501-0550\0513-FindBottomLeftTreeValue.cs" />
     <Compile Include="0501-0550\0515-FindLargestValueInEachTreeRow.cs" />
     <Compile Include="0501-0550\0518-CoinChange2.cs" />
