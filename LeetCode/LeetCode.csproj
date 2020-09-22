@@ -762,6 +762,7 @@
     <Compile Include="1251-1300\1286-IteratorForCombination.cs" />
     <Compile Include="1251-1300\1287-ElementAppearingMoreThan25InSortedArray.cs" />
     <Compile Include="1251-1300\1290-ConvertBinaryNumberInALinkedListToInteger.cs" />
+    <Compile Include="1251-1300\1291-SequentialDigits.cs" />
     <Compile Include="1251-1300\1295-FindNumbersWithEvenNumberOfDigits.cs" />
     <Compile Include="1251-1300\1296-DivideArrayInSetsOfKConsecutiveNumbers.cs" />
     <Compile Include="1251-1300\1299-ReplaceElementsWithGreatestElementOnRightSide.cs" />
