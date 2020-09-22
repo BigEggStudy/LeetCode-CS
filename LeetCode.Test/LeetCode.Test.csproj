@@ -205,6 +205,7 @@
     <Compile Include="0151-0200\0159-LongestSubstringWithAtMostTwoDistinctCharacters-Test.cs" />
     <Compile Include="0151-0200\0160-IntersectionOfTwoLinkedLists-Test.cs" />
     <Compile Include="0151-0200\0162-FindPeakElement-Test.cs" />
+    <Compile Include="0151-0200\0165-CompareVersionNumbers-Test.cs" />
     <Compile Include="0151-0200\0166-FractionToRecurringDecimal-Test.cs" />
     <Compile Include="0151-0200\0167-TwoSumII-Test.cs" />
     <Compile Include="0151-0200\0168-ExcelSheetColumnTitle-Test.cs" />

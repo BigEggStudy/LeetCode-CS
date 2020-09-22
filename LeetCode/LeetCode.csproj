@@ -195,6 +195,7 @@
     <Compile Include="0151-0200\0159-LongestSubstringWithAtMostTwoDistinctCharacters.cs" />
     <Compile Include="0151-0200\0160-IntersectionOfTwoLinkedLists.cs" />
     <Compile Include="0151-0200\0162-FindPeakElement.cs" />
+    <Compile Include="0151-0200\0165-CompareVersionNumbers.cs" />
     <Compile Include="0151-0200\0166-FractionToRecurringDecimal.cs" />
     <Compile Include="0151-0200\0167-TwoSumII.cs" />
     <Compile Include="0151-0200\0168-ExcelSheetColumnTitle.cs" />
