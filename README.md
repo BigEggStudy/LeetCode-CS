@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-814-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-815-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -736,6 +736,7 @@ The C# solutions for LeetCode problems.
 | 976 | Largest Perimeter Triangle | [C#](./LeetCode/0951-1000/0976-LargestPerimeterTriangle.cs)(128ms) | O(NlogN) | O(1) | |
 | 977 | Squares of a Sorted Array | [C#](./LeetCode/0951-1000/0977-SquaresOfASortedArray.cs)(284ms) | O(N) | O(N) | |
 | 979 | Distribute Coins in Binary Tree | [C#](./LeetCode/0951-1000/0979-DistributeCoinsInBinaryTree.cs)(92ms) | O(N) | O(h) | |
+| 980 | Unique Paths III | [C#](./LeetCode/0951-1000/0980-UniquePathsIII.cs)(92ms) | O(3<sup>N</sup>) | O(N) | |
 | 981 | Time Based Key-Value Store | [C#](./LeetCode/0951-1000/0981-TimeBasedKeyValueStore.cs)(920ms) | O(LogN) | O(N) | |
 | 983 | Minimum Cost For Tickets | [C#](./LeetCode/0951-1000/0983-MinimumCostForTickets.cs)(84ms) | O(N) | O(N) | |
 | 985 | Sum of Even Numbers After Queries | [C#](./LeetCode/0951-1000/0985-SumOfEvenNumbersAfterQueries.cs)(372ms) | O(N) | O(1) | |

@@ -631,6 +631,7 @@
     <Compile Include="0951-1000\0976-LargestPerimeterTriangle-Test.cs" />
     <Compile Include="0951-1000\0977-SquaresOfASortedArray-Test.cs" />
     <Compile Include="0951-1000\0979-DistributeCoinsInBinaryTree-Test.cs" />
+    <Compile Include="0951-1000\0980-UniquePathsIII-Test.cs" />
     <Compile Include="0951-1000\0981-TimeBasedKeyValueStore-Test.cs" />
     <Compile Include="0951-1000\0983-MinimumCostForTickets-Test.cs" />
     <Compile Include="0951-1000\0985-SumOfEvenNumbersAfterQueries-Test.cs" />

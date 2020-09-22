@@ -622,6 +622,7 @@
     <Compile Include="0951-1000\0976-LargestPerimeterTriangle.cs" />
     <Compile Include="0951-1000\0977-SquaresOfASortedArray.cs" />
     <Compile Include="0951-1000\0979-DistributeCoinsInBinaryTree.cs" />
+    <Compile Include="0951-1000\0980-UniquePathsIII.cs" />
     <Compile Include="0951-1000\0981-TimeBasedKeyValueStore.cs" />
     <Compile Include="0951-1000\0983-MinimumCostForTickets.cs" />
     <Compile Include="0951-1000\0985-SumOfEvenNumbersAfterQueries.cs" />
