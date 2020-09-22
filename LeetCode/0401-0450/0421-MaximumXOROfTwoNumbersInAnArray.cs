@@ -1,10 +1,9 @@
 //-----------------------------------------------------------------------------
-// Runtime: 112ms
-// Memory Usage: 
-// Link: 
+// Runtime: 152ms
+// Memory Usage: 25.3 MB
+// Link: https://leetcode.com/submissions/detail/396474546/
 //-----------------------------------------------------------------------------
 
-using System;
 using System.Collections.Generic;
 
 namespace LeetCode

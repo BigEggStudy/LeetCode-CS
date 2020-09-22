@@ -394,7 +394,7 @@ The C# solutions for LeetCode problems.
 | 416 | Partition Equal Subset Sum | [C#](./LeetCode/0401-0450/0416-PartitionEqualSubsetSum.cs)(80ms) | O(2<sup>N</sup>) | O(N) | |
 | 419 | Battleships in a Board | [C#](./LeetCode/0401-0450/0419-BattleshipsInABoard.cs)(100ms) | O(N) | O(1) | |
 | 420 | Strong Password Checker | [C#](./LeetCode/0401-0450/0420-StrongPasswordChecker.cs)(72ms) | O(N) | O(N) | |
-| 421 | Maximum XOR of Two Numbers in an Array | [C#](./LeetCode/0401-0450/0421-MaximumXOROfTwoNumbersInAnArray.cs)(112ms) | O(N) | O(N) | |
+| 421 | Maximum XOR of Two Numbers in an Array | [C#](./LeetCode/0401-0450/0421-MaximumXOROfTwoNumbersInAnArray.cs)(152ms) | O(N) | O(N) | |
 | 422 | Valid Word Square | [C#](./LeetCode/0401-0450/0422-ValidWordSquare.cs)(96ms) | O(N*M) | O(1) | |
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [C#](./LeetCode/0401-0450/0426-ConvertBinarySearchTreeToSortedDoublyLinkedList.cs)(96ms) | O(N) | O(logN) | |
 | 427 | Construct Quad Tree | [C#](./LeetCode/0401-0450/0427-ConstructQuadTree.cs)(100ms) | O(N*N) | O(logN) | |
