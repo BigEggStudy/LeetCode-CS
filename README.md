@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-808-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-810-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -428,6 +428,7 @@ The C# solutions for LeetCode problems.
 | 463 | Island Perimeter | [C#](./LeetCode/0451-0500/0463-IslandPerimeter.cs)(176ms) | O(N*M) | O(1) | |
 | 465 | Optimal Account Balancing | [C#](./LeetCode/0451-0500/0465-OptimalAccountBalancing.cs)(104ms) | O(2<sup>N</sup>) | O(N) | |
 | 468 | Validate IP Address | [C#](./LeetCode/0451-0500/0468-ValidateIPAddress.cs)(84ms) | O(N) | O(1) | |
+| 470 | Implement Rand10() Using Rand7() | [C#](./LeetCode/0451-0500/0470-ImplementRand10UsingRand7.cs)(228ms) | O(1) | O(1) | |
 | 472 | Concatenated Words | [C#](./LeetCode/0451-0500/0472-ConcatenatedWords.cs)(576ms) | O(N<sup>2</sup>) | O(N) | |
 | 475 | Heaters | [C#](./LeetCode/0451-0500/0475-Heaters.cs)(152ms) | O(NlogN) | O(N) | |
 | 476 | Number Complement | [C#](./LeetCode/0451-0500/0476-NumberComplement.cs)(32ms) | O(1) | O(1) | |
@@ -639,6 +640,7 @@ The C# solutions for LeetCode problems.
 | 830 | Positions of Large Groups | [C#](./LeetCode/0801-0850/0830-PositionsOfLargeGroups.cs)(236ms) | O(N) | O(1) | |
 | 832 | Flipping an Image | [C#](./LeetCode/0801-0850/0832-FlippingAnImage.cs)(240ms) | O(N) | O(1) | |
 | 833 | Find And Replace in String | [C#](./LeetCode/0801-0850/0833-FindAndReplaceInString.cs)(104ms) | O(N) | O(N) | |
+| 835 | Image Overlap | [C#](./LeetCode/0801-0850/0835-ImageOverlap.cs)(92ms) | O(N<sup>4</sup>) | O(1) | |
 | 836 | Rectangle Overlap | [C#](./LeetCode/0801-0850/0836-RectangleOverlap.cs)(108ms) | O(1) | O(1) | |
 | 837 | New 21 Game | [C#](./LeetCode/0801-0850/0837-New21Game.cs)(44ms) | O(N+W) | O(N+W) | |
 | 840 | Magic Squares In Grid | [C#](./LeetCode/0801-0850/0840-MagicSquaresInGrid.cs)(88ms) | O(N*M) | O(1) | |

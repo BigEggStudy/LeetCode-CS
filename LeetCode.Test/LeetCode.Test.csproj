@@ -552,6 +552,7 @@
     <Compile Include="0801-0850\0830-PositionsOfLargeGroups-Test.cs" />
     <Compile Include="0801-0850\0832-FlippingAnImage-Test.cs" />
     <Compile Include="0801-0850\0833-FindAndReplaceInString-Test.cs" />
+    <Compile Include="0801-0850\0835-ImageOverlap-Test.cs" />
     <Compile Include="0801-0850\0836-RectangleOverlap-Test.cs" />
     <Compile Include="0801-0850\0837-New21Game-Test.cs" />
     <Compile Include="0801-0850\0840-MagicSquaresInGrid-Test.cs" />

@@ -373,7 +373,7 @@
     <Compile Include="0451-0500\0463-IslandPerimeter.cs" />
     <Compile Include="0451-0500\0465-OptimalAccountBalancing.cs" />
     <Compile Include="0451-0500\0468-ValidateIPAddress.cs" />
-    <Compile Include="0451-0500\_0470_ImplementRand10UsingRand7.cs" />
+    <Compile Include="0451-0500\0470-ImplementRand10UsingRand7.cs" />
     <Compile Include="0451-0500\0472-ConcatenatedWords.cs" />
     <Compile Include="0451-0500\0475-Heaters.cs" />
     <Compile Include="0451-0500\0476-NumberComplement.cs" />
@@ -543,6 +543,7 @@
     <Compile Include="0801-0850\0830-PositionsOfLargeGroups.cs" />
     <Compile Include="0801-0850\0832-FlippingAnImage.cs" />
     <Compile Include="0801-0850\0833-FindAndReplaceInString.cs" />
+    <Compile Include="0801-0850\0835-ImageOverlap.cs" />
     <Compile Include="0801-0850\0836-RectangleOverlap.cs" />
     <Compile Include="0801-0850\0837-New21Game.cs" />
     <Compile Include="0801-0850\0840-MagicSquaresInGrid.cs" />
