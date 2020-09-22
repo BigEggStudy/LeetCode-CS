@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-817-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-818-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -261,6 +261,7 @@ The C# solutions for LeetCode problems.
 | 225 | Implement Stack using Queues | [C#](./LeetCode/0201-0250/0225-ImplementStackUsingQueues.cs)(92ms) | O(1) | O(N) | |
 | 226 | Invert Binary Tree | [C#](./LeetCode/0201-0250/0226-InvertBinaryTree.cs)(92ms) | O(N) | O(1) | |
 | 227 | Basic Calculator II | [C#](./LeetCode/0201-0250/0227-BasicCalculatorII.cs)(76ms) | O(N) | O(N) | |
+| 229 | Majority Element II | [C#](./LeetCode/0201-0250/0229-MajorityElementII.cs)(240ms) | O(N) | O(1) | Boyer-Moore Voting Algorithm |
 | 230 | Kth Smallest Element in a BST | [C#](./LeetCode/0201-0250/0230-KthSmallestElementInABST.cs)(96ms) | O(N) | O(N) | |
 | 231 | Power of Two | [C#](./LeetCode/0201-0250/0231-PowerOfTwo.cs)(36ms) | O(1) | O(1) | |
 | 232 | Implement Queue using Stacks | [C#](./LeetCode/0201-0250/0232-ImplementQueueUsingStacks.cs)(92ms) | | | |

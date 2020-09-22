@@ -236,6 +236,7 @@
     <Compile Include="0201-0250\0225-ImplementStackUsingQueues.cs" />
     <Compile Include="0201-0250\0226-InvertBinaryTree.cs" />
     <Compile Include="0201-0250\0227-BasicCalculatorII.cs" />
+    <Compile Include="0201-0250\0229-MajorityElementII.cs" />
     <Compile Include="0201-0250\0230-KthSmallestElementInABST.cs" />
     <Compile Include="0201-0250\0231-PowerOfTwo.cs" />
     <Compile Include="0201-0250\0232-ImplementQueueUsingStacks.cs" />
