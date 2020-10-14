@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
-// Runtime: 228ms
-// Memory Usage: 41.3 MB
-// Link: https://leetcode.com/submissions/detail/359559769/
+// Runtime: 216ms
+// Memory Usage: 42.6 MB
+// Link: https://leetcode.com/submissions/detail/406709543/
 //-----------------------------------------------------------------------------
 
 using System.Collections.Generic;

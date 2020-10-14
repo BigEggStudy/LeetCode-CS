@@ -219,7 +219,7 @@ The C# solutions for LeetCode problems.
 | 167 | Two Sum II - Input array is sorted | [C#](./LeetCode/0151-0200/0167-TwoSumII.cs)(244ms) | O(N) | O(1) | |
 | 168 | Excel Sheet Column Title | [C#](./LeetCode/0151-0200/0168-ExcelSheetColumnTitle.cs)(68ms) | O(logN) | O(1) | |
 | 169 | Majority Element | [C#](./LeetCode/0151-0200/0169-MajorityElement.cs)(104ms) | O(N) | O(1) | |
-| 170 | Two Sum III - Data structure design | [C#](./LeetCode/0151-0200/0170-TwoSumIIIDataStructureDesign.cs)(228ms) | O(N) | O(N) | |
+| 170 | Two Sum III - Data structure design | [C#](./LeetCode/0151-0200/0170-TwoSumIIIDataStructureDesign.cs)(216ms) | O(N) | O(N) | |
 | 171 | Excel Sheet Column Number | [C#](./LeetCode/0151-0200/0171-ExcelSheetColumnNumber.cs)(72ms) | O(N) | O(1) | |
 | 172 | Factorial Trailing Zeroes | [C#](./LeetCode/0151-0200/0172-FactorialTrailingZeroes.cs)(40ms) | O(logN) | O(1) | |
 | 173 | Binary Search Tree Iterator | [C#](./LeetCode/0151-0200/0173-BinarySearchTreeIterator.cs)(156ms) | O(N) | O(h) | |
