@@ -709,7 +709,7 @@ The C# solutions for LeetCode problems.
 | 925 | Long Pressed Name | [C#](./LeetCode/0901-0950/0925-LongPressedName.cs)(72ms) | O(N+M) | O(1) | |
 | 929 | Unique Email Addresses | [C#](./LeetCode/0901-0950/0929-UniqueEmailAddresses.cs)(108ms) | O(N) | O(N) | |
 | 931 | Minimum Falling Path Sum | [C#](./LeetCode/0901-0950/0931-MinimumFallingPathSum.cs)(100ms) | O(N*N) | O(N*N) | |
-| 933 | Number of Recent Calls | [C#](./LeetCode/0901-0950/0933-NumberOfRecentCalls.cs)(320ms) | O(1) | O(N) | |
+| 933 | Number of Recent Calls | [C#](./LeetCode/0901-0950/0933-NumberOfRecentCalls.cs)(276ms) | O(1) | O(N) | |
 | 937 | Reorder Data in Log Files | [C#](./LeetCode/0901-0950/0937-ReorderDataInLogFiles.cs)(256ms) | O(NLogN) | O(N) | `Array.Sort` is not stable. `System.Linq` is slow |
 | 938 | Range Sum of BST | [C#](./LeetCode/0901-0950/0938-RangeSumOfBST.cs)(172ms) | O(N) | O(1) | |
 | 939 | Minimum Area Rectangle | [C#](./LeetCode/0901-0950/0939-MinimumAreaRectangle.cs)(352ms) | O(N<sup>2</sup>) | O(N) | |
