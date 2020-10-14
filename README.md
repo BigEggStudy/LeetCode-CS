@@ -82,7 +82,7 @@ The C# solutions for LeetCode problems.
 | 36 | Valid Sudoku | [C#](./LeetCode/0001-0050/036-ValidSudoku.cs)(160ms) | O(1) | O(1) | |
 | 37 | Sudoku Solver | [C#](./LeetCode/0001-0050/037-SudokuSolver.cs)(168ms) | O(1) | N(1) | |
 | 38 | Count and Say | [C#](./LeetCode/0001-0050/038-CountAndSay.cs)(80ms) | O(N<sup>2</sup>) | O(N) | Python use an dictionary of answers |
-| 39 | Combination Sum | [C#](./LeetCode/0001-0050/039-CombinationSum.cs)(244ms) | O(N!) | O(N) | |
+| 39 | Combination Sum | [C#](./LeetCode/0001-0050/039-CombinationSum.cs)(236ms) | O(N!) | O(N) | |
 | 40 | Combination Sum II | [C#](./LeetCode/0001-0050/040-CombinationSum2.cs)(484ms) | O(N!) | O(N) | |
 | 41 | First Missing Positive | [C#](./LeetCode/0001-0050/041-FirstMissingPositive.cs)(92ms) | O(N) | O(1) | |
 | 42 | Trapping Rain Water | [C#](./LeetCode/0001-0050/042-TrappingRainWater.cs)(88ms) | O(N) | O(1) | |

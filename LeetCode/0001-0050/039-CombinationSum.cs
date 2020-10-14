@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
-// Runtime: 244ms
-// Memory Usage: 31.8 MB
-// Link: https://leetcode.com/submissions/detail/380048857/
+// Runtime: 236ms
+// Memory Usage: 32.5 MB
+// Link: https://leetcode.com/submissions/detail/403607959/
 //-----------------------------------------------------------------------------
 
 using System;
