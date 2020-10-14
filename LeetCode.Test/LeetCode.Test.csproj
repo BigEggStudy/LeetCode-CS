@@ -375,6 +375,7 @@
     <Compile Include="0401-0450\0445-AddTwoNumbersII-Test.cs" />
     <Compile Include="0401-0450\0447-NumberOfBoomerangs-Test.cs" />
     <Compile Include="0401-0450\0448-FindAllNumbersDisappearedInAnArray-Test.cs" />
+    <Compile Include="0401-0450\0449-SerializeAndDeserializeBST-Test.cs" />
     <Compile Include="0401-0450\0450-DeleteNodeInABST-Test.cs" />
     <Compile Include="0451-0500\0451-SortCharactersByFrequency-Test.cs" />
     <Compile Include="0451-0500\0452-MinimumNumberOfArrowsToBurstBalloons-Test.cs" />
