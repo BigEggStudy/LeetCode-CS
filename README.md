@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-821-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-822-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -917,6 +917,7 @@ The C# solutions for LeetCode problems.
 | 1282 | Group the People Given the Group Size They Belong To | [C#](./LeetCode/1251-1300/1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs)(252ms) | O(N) | O(N) | |
 | 1286 | Iterator for Combination | [C#](./LeetCode/1251-1300/1286-IteratorForCombination.cs)(120ms) | O(K) | O(K) | |
 | 1287 | Element Appearing More Than 25% In Sorted Array | [C#](./LeetCode/1251-1300/1287-ElementAppearingMoreThan25InSortedArray.cs)(96ms) | O(N) | O(1) | |
+| 1288 | Remove Covered Intervals | [C#](./LeetCode/1251-1300/1288-RemoveCoveredIntervals.cs)(100ms) | O(NlogN) | O(N) | |
 | 1290 | Convert Binary Number in a Linked List to Integer | [C#](./LeetCode/1251-1300/1290-ConvertBinaryNumberInALinkedListToInteger.cs)(84ms) | O(N) | O(1) | |
 | 1291 | Sequential Digits | [C#](./LeetCode/1251-1300/1291-SequentialDigits.cs)(204ms) | O(1) | O(1) | |
 | 1295 | Find Numbers with Even Number of Digits | [C#](./LeetCode/1251-1300/1295-FindNumbersWithEvenNumberOfDigits.cs)(92ms) | O(N) | O(N) | |

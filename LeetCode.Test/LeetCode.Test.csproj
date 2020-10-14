@@ -774,6 +774,7 @@
     <Compile Include="1251-1300\1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo-Test.cs" />
     <Compile Include="1251-1300\1286-IteratorForCombination-Test.cs" />
     <Compile Include="1251-1300\1287-ElementAppearingMoreThan25InSortedArray-Test.cs" />
+    <Compile Include="1251-1300\1288-RemoveCoveredIntervals-Test.cs" />
     <Compile Include="1251-1300\1290-ConvertBinaryNumberInALinkedListToInteger-Test.cs" />
     <Compile Include="1251-1300\1291-SequentialDigits-Test.cs" />
     <Compile Include="1251-1300\1295-FindNumbersWithEvenNumberOfDigits-Test.cs" />

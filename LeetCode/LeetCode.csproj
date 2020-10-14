@@ -768,6 +768,7 @@
     <Compile Include="1251-1300\1282-GroupThePeopleGivenTheGroupSizeTheyBelongTo.cs" />
     <Compile Include="1251-1300\1286-IteratorForCombination.cs" />
     <Compile Include="1251-1300\1287-ElementAppearingMoreThan25InSortedArray.cs" />
+    <Compile Include="1251-1300\1288-RemoveCoveredIntervals.cs" />
     <Compile Include="1251-1300\1290-ConvertBinaryNumberInALinkedListToInteger.cs" />
     <Compile Include="1251-1300\1291-SequentialDigits.cs" />
     <Compile Include="1251-1300\1295-FindNumbersWithEvenNumberOfDigits.cs" />
