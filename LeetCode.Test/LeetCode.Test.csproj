@@ -377,6 +377,7 @@
     <Compile Include="0401-0450\0448-FindAllNumbersDisappearedInAnArray-Test.cs" />
     <Compile Include="0401-0450\0450-DeleteNodeInABST-Test.cs" />
     <Compile Include="0451-0500\0451-SortCharactersByFrequency-Test.cs" />
+    <Compile Include="0451-0500\0452-MinimumNumberOfArrowsToBurstBalloons-Test.cs" />
     <Compile Include="0451-0500\0453-MinimumMovesToEqualArrayElements-Test.cs" />
     <Compile Include="0451-0500\0455-AssignCookies-Test.cs" />
     <Compile Include="0451-0500\0458-PoorPigs-Test.cs" />

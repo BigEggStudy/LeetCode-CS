@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-819-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-820-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -423,6 +423,7 @@ The C# solutions for LeetCode problems.
 | # | Title | Solutions | Time | Space | Comments |
 |---| ----- | --------- | ---- | ----- | -------- |
 | 451 | Sort Characters By Frequency | [C#](./LeetCode/0451-0500/0451-SortCharactersByFrequency.cs)(108ms) | O(N) | O(N) | |
+| 452 | Minimum Number of Arrows to Burst Balloons | [C#](./LeetCode/0451-0500/0452-MinimumNumberOfArrowsToBurstBalloons.cs)(212ms) | O(NlogN) | O(N) | |
 | 453 | Minimum Moves to Equal Array Elements | [C#](./LeetCode/0451-0500/0453-MinimumMovesToEqualArrayElements.cs)(128ms) | O(N) | O(1) | |
 | 455 | Assign Cookies | [C#](./LeetCode/0451-0500/0455-AssignCookies.cs)(116ms) | O(NlogN) | O(1) | |
 | 458 | Poor Pigs | [C#](./LeetCode/0451-0500/0458-PoorPigs.cs)(36ms) | O(1) | O(1) | |
