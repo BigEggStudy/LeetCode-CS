@@ -110,7 +110,7 @@ The C# solutions for LeetCode problems.
 | 58 | Length of Last Word | [C#](./LeetCode/0051-0100/058-LengthOfLastWord.cs)(72msms) | O(N) | O(1) | |
 | 59 | Spiral Matrix II | [C#](./LeetCode/0051-0100/059-SpiralMatrix2.cs)(48ms) | O(N<sup>2</sup>) | O(N<sup>2</sup>) | |
 | 60 | Permutation Sequence | [C#](./LeetCode/0051-0100/060-PermutationSequence.cs)(80ms) | O(N) | (N) | Use Cantor Expansion (Introduction to Algorithms, MIT) |
-| 61 | Rotate List | [C#](./LeetCode/0051-0100/061-RotateList.cs)(152ms) | O(N) | O(1) | |
+| 61 | Rotate List | [C#](./LeetCode/0051-0100/061-RotateList.cs)(84ms) | O(N) | O(1) | |
 | 62 | Unique Paths | [C#](./LeetCode/0051-0100/062-UniquePaths.cs)(40ms) | O(Min(M, N)) | O(1) | Use dynamic programing will cost O(M*N) time and O(Min(M, N)) space |
 | 63 | Unique Paths II | [C#](./LeetCode/0051-0100/063-UniquePaths2.cs)(160ms) | O(M*N) | O(Min(M, N)) | |
 | 64 | Minimum Path Sum | [C#](./LeetCode/0051-0100/064-MinimumPathSum.cs)(104ms) | O(M*N) | O(Min(M, N)) | Update grid to not use new space |
