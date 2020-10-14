@@ -224,6 +224,7 @@
     <Compile Include="0201-0250\0208-ImplementTrie.cs" />
     <Compile Include="0201-0250\0211-AddAndSearchWordDataStructureDesign.cs" />
     <Compile Include="0201-0250\0212-WordSearchII.cs" />
+    <Compile Include="0201-0250\0213-HouseRobberII.cs" />
     <Compile Include="0201-0250\0215-KthLargestElementInAnArray.cs" />
     <Compile Include="0201-0250\0216-CombinationSumIII.cs" />
     <Compile Include="0201-0250\0217-ContainsDuplicate.cs" />

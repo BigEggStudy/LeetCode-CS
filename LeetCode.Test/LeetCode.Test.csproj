@@ -233,6 +233,7 @@
     <Compile Include="0201-0250\0208-ImplementTrie-Test.cs" />
     <Compile Include="0201-0250\0211-AddAndSearchWordDataStructureDesign-Test.cs" />
     <Compile Include="0201-0250\0212-WordSearchII-Test.cs" />
+    <Compile Include="0201-0250\0213-HouseRobberII-Test.cs" />
     <Compile Include="0201-0250\0215-KthLargestElementInAnArray-Test.cs" />
     <Compile Include="0201-0250\0216-CombinationSumIII-Test.cs" />
     <Compile Include="0201-0250\0217-ContainsDuplicate-Test.cs" />
