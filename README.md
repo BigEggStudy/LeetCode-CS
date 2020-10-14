@@ -567,7 +567,7 @@ The C# solutions for LeetCode problems.
 
 | # | Title | Solutions | Time | Space | Comments |
 |---| ----- | --------- | ---- | ----- | -------- |
-| 701 | Insert into a Binary Search Tree | [C#](./LeetCode/0701-0750/0701-InsertIntoABinarySearchTree.cs)(144ms) | O(logN) | O(1) | |
+| 701 | Insert into a Binary Search Tree | [C#](./LeetCode/0701-0750/0701-InsertIntoABinarySearchTree.cs)(128ms) | O(logN) | O(1) | |
 | 702 | Search in a Sorted Array of Unknown Size | [C#](./LeetCode/0701-0750/0702-SearchInASortedArrayOfUnknownSize.cs)(160ms) | O(logN) | O(1) | |
 | 703 | Kth Largest Element in a Stream | [C#](./LeetCode/0701-0750/0703-KthLargestElementInAStream.cs)(200ms) | O(KlogK) | O(K) | |
 | 704 | Binary Search | [C#](./LeetCode/0701-0750/0704-BinarySearch.cs)(120ms) | O(logN) | O(1) | |

@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
-// Runtime: 144ms
-// Memory Usage: 37 MB
-// Link: https://leetcode.com/submissions/detail/360438589/
+// Runtime: 128ms
+// Memory Usage: 37.6 MB
+// Link: https://leetcode.com/submissions/detail/408819393/
 //-----------------------------------------------------------------------------
 
 namespace LeetCode
