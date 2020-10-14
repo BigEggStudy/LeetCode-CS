@@ -197,7 +197,7 @@ The C# solutions for LeetCode problems.
 | 141 | Linked List Cycle | [C#](./LeetCode/0101-0150/0141-LinkedListCycle.cs)(96ms) | O(N) | O(1) | |
 | 143 | Reorder List | [C#](./LeetCode/0101-0150/0143-ReorderList.cs)(108ms) | O(N) | O(1) | |
 | 146 | LRU Cache | [C#](./LeetCode/0101-0150/0146-LRUCache.cs)(244ms) | O(1) | O(N) | |
-| 148 | Sort List | [C#](./LeetCode/0101-0150/0148-SortList.cs)(160ms) | O(NlogN) | O(1) | |
+| 148 | Sort List | [C#](./LeetCode/0101-0150/0148-SortList.cs)(108ms) | O(NlogN) | O(1) | |
 
 ### Problems 151-200
 [Back to Table of Contents](#Table-of-Contents)
