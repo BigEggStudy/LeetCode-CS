@@ -1,7 +1,7 @@
 //-----------------------------------------------------------------------------
-// Runtime: 108ms
-// Memory Usage: 27.1 MB
-// Link: https://leetcode.com/submissions/detail/379095042/
+// Runtime: 104ms
+// Memory Usage: 28 MB
+// Link: https://leetcode.com/submissions/detail/409212378/
 //-----------------------------------------------------------------------------
 
 using System.Linq;

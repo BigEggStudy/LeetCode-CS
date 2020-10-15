@@ -283,7 +283,7 @@ The C# solutions for LeetCode problems.
 | # | Title | Solutions | Time | Space | Comments |
 |---| ----- | --------- | ---- | ----- | -------- |
 | 252 | Meeting Rooms | [C#](./LeetCode/0251-0300/0252-MeetingRooms.cs)(100ms) | O(NlogN) | O(1) | |
-| 253 | Meeting Rooms II | [C#](./LeetCode/0251-0300/0253-MeetingRoomsII.cs)(108ms) | O(NlogN) | O(N) | |
+| 253 | Meeting Rooms II | [C#](./LeetCode/0251-0300/0253-MeetingRoomsII.cs)(104ms) | O(NlogN) | O(N) | |
 | 256 | Paint House | [C#](./LeetCode/0251-0300/0256-PaintHouse.cs)(88ms) | O(N) | O(1) | |
 | 257 | Binary Tree Paths | [C#](./LeetCode/0251-0300/0257-BinaryTreePaths.cs)(248ms) | O(N) | O(N) | |
 | 258 | Add Digits | [C#](./LeetCode/0251-0300/0258-AddDigits.cs)(36ms) | O(N) | O(1) | |
