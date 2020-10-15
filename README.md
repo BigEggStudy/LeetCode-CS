@@ -225,7 +225,7 @@ The C# solutions for LeetCode problems.
 | 173 | Binary Search Tree Iterator | [C#](./LeetCode/0151-0200/0173-BinarySearchTreeIterator.cs)(156ms) | O(N) | O(h) | |
 | 174 | Dungeon Game | [C#](./LeetCode/0151-0200/0174-DungeonGame.cs)(92ms) | O(N*M) | O(N*M) | |
 | 179 | Largest Number | [C#](./LeetCode/0151-0200/0179-LargestNumber.cs)(128ms) | O(NlogN) | O(N) | |
-| 189 | Rotate Array | [C#](./LeetCode/0151-0200/0189-RotateArray.cs)(304ms) | O(N) | O(1) | |
+| 189 | Rotate Array | [C#](./LeetCode/0151-0200/0189-RotateArray.cs)(232ms) | O(N) | O(1) | |
 | 190 | Reverse Bits | [C#](./LeetCode/0151-0200/0190-ReverseBits.cs)(44ms) | O(1) | O(1) | |
 | 191 | Number of 1 Bits | [C#](./LeetCode/0151-0200/0191-NumberOf1Bits.cs)(36ms) | O(1) | O(1) | |
 | 198 | House Robber | [C#](./LeetCode/0151-0200/0198-HouseRobber.cs)(88ms) | O(N) | O(1) | |
