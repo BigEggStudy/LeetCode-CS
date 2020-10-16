@@ -374,7 +374,7 @@ The C# solutions for LeetCode problems.
 | 392 | Is Subsequence | [C#](./LeetCode/0351-0400/0392-IsSubsequence.cs)(76ms) | O(T) | O(1) | |
 | 393 | UTF-8 Validation | [C#](./LeetCode/0351-0400/0393-UTF8Validation.cs) | O(N) | O(1) | |
 | 394 | Decode String | [C#](./LeetCode/0351-0400/0394-DecodeString.cs)(80ms) | O(N) | O(N) | |
-| 399 | Evaluate Division | [C#](./LeetCode/0351-0400/0399-EvaluateDivision.cs)(264ms) | O(N) | O(N) | |
+| 399 | Evaluate Division | [C#](./LeetCode/0351-0400/0399-EvaluateDivision.cs)(240ms) | O(N) | O(N) | |
 
 ### Problems 401-450
 [Back to Table of Contents](#Table-of-Contents)
