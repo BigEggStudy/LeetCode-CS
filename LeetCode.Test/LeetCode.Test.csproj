@@ -400,6 +400,7 @@
     <Compile Include="0451-0500\0490-TheMaze-Test.cs" />
     <Compile Include="0451-0500\0492-ConstructTheRectangle-Test.cs" />
     <Compile Include="0451-0500\0493-ReversePairs-Test.cs" />
+    <Compile Include="0451-0500\0495-TeemoAttacking-Test.cs" />
     <Compile Include="0451-0500\0496-NextGreaterElementI-Test.cs" />
     <Compile Include="0451-0500\0497-RandomPointInNonOverlappingRectangles-Test.cs" />
     <Compile Include="0451-0500\0498-DiagonalTraverse-Test.cs" />

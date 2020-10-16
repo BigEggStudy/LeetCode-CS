@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-822-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-823-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -446,6 +446,7 @@ The C# solutions for LeetCode problems.
 | 490 | The Maze | [C#](./LeetCode/0451-0500/0490-TheMaze.cs)(124ms) | O(NM) | O(NM) | |
 | 492 | Construct the Rectangle | [C#](./LeetCode/0451-0500/0492-ConstructTheRectangle.cs)(200ms) | O(sqrt(N)) | O(1) | |
 | 493 | Reverse Pairs | [C#](./LeetCode/0451-0500/0493-ReversePairs.cs)(248ms) | O(NlogN) | O(N) | |
+| 495 | Teemo Attacking | [C#](./LeetCode/0451-0500/0495-TeemoAttacking.cs)(124ms) | O(N) | O(1) | |
 | 496 | Next Greater Element I | [C#](./LeetCode/0451-0500/0496-NextGreaterElementI.cs)(236ms) | O(N) | O(N) | |
 | 497 | Random Point in Non-overlapping Rectangles | [C#](./LeetCode/0451-0500/0497-RandomPointInNonOverlappingRectangles.cs)(324ms) | O(N) | O(N) | |
 | 498 | Diagonal Traverse | [C#](./LeetCode/0451-0500/0498-DiagonalTraverse.cs)(288ms) | O(N*M) | O(1) | |

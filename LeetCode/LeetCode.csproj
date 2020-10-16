@@ -391,6 +391,7 @@
     <Compile Include="0451-0500\0490-TheMaze.cs" />
     <Compile Include="0451-0500\0492-ConstructTheRectangle.cs" />
     <Compile Include="0451-0500\0493-ReversePairs.cs" />
+    <Compile Include="0451-0500\0495-TeemoAttacking.cs" />
     <Compile Include="0451-0500\0496-NextGreaterElementI.cs" />
     <Compile Include="0451-0500\0497-RandomPointInNonOverlappingRectangles.cs" />
     <Compile Include="0451-0500\0498-DiagonalTraverse.cs" />
