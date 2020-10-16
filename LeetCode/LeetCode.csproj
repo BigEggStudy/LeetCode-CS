@@ -490,6 +490,7 @@
     <Compile Include="0701-0750\0706-DesignHashmap.cs" />
     <Compile Include="0701-0750\0708-InsertIntoASortedCircularLinkedList.cs" />
     <Compile Include="0701-0750\0709-ToLowerCase.cs" />
+    <Compile Include="0701-0750\0713-SubarrayProductLessThanK.cs" />
     <Compile Include="0701-0750\0715-RangeModule.cs" />
     <Compile Include="0701-0750\0716-MaxStack.cs" />
     <Compile Include="0701-0750\0717-1BitAnd2BitCharacters.cs" />

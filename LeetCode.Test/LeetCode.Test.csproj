@@ -500,6 +500,7 @@
     <Compile Include="0701-0750\0706-DesignHashmap-Test.cs" />
     <Compile Include="0701-0750\0708-InsertIntoASortedCircularLinkedList-Test.cs" />
     <Compile Include="0701-0750\0709-ToLowerCase-Test.cs" />
+    <Compile Include="0701-0750\0713-SubarrayProductLessThanK-Test.cs" />
     <Compile Include="0701-0750\0715-RangeModule-Test.cs" />
     <Compile Include="0701-0750\0716-MaxStack-Test.cs" />
     <Compile Include="0701-0750\0717-1BitAnd2BitCharacters-Test.cs" />
