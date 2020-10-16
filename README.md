@@ -123,7 +123,7 @@ The C# solutions for LeetCode problems.
 | 71 | Simplify Path | [C#](./LeetCode/0051-0100/071-SimplifyPath.cs)(132ms) | O(N) | O(N) | |
 | 72 | Edit Distance | [C#](./LeetCode/0051-0100/072-EditDistance.cs)(76ms) | O(N*M) | O(Min(N,M)) | |
 | 73 | Set Matrix Zeroes | [C#](./LeetCode/0051-0100/073-SetMatrixZeroes.cs)(184ms) | O(N*M) | O(N+M) | When use constant space, solution will slower |
-| 74 | Search a 2D Matrix | [C#](./LeetCode/0051-0100/074-SearchA2DMatrix.cs)(164ms) | O(Log(N+M)) | O(1) | |
+| 74 | Search a 2D Matrix | [C#](./LeetCode/0051-0100/074-SearchA2DMatrix.cs)(92ms) | O(Log(N+M)) | O(1) | |
 | 75 | Sort Colors | [C#](./LeetCode/0051-0100/075-SortColors.cs)(236ms) | O(N) | O(1) | |
 | 76 | Minimum Window Substring | [C#](./LeetCode/0051-0100/076-MinimumWindowSubstring.cs)(84ms) | O(N+M) | O(1) | |
 | 77 | Combinations | [C#](./LeetCode/0051-0100/077-Combinations.cs)(416ms) | O((N-K)!) | O(N!/K!) | |

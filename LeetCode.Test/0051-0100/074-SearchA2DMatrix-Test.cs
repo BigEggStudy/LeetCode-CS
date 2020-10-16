@@ -8,11 +8,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_Exist_FirstRow()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -24,11 +24,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_Exist_FirstColumn()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -40,11 +40,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_Exist_MidRow()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -56,11 +56,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_Exist_LastRow()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -72,11 +72,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_NotExist_LessThanFirst()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -88,11 +88,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_NotExist_GreaterThanLast()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
@@ -104,11 +104,11 @@ namespace LeetCode.Test
         [TestMethod]
         public void SearchMatrixTest_NotExist_GreaterThanFirstRow()
         {
-            var input = new int[,]
+            var input = new int[][]
             {
-                {  1,  3,  5,  7 },
-                { 10, 11, 16, 20 },
-                { 23, 30, 34, 50 }
+                new int[] {  1,  3,  5,  7 },
+                new int[] { 10, 11, 16, 20 },
+                new int[] { 23, 30, 34, 50 }
             };
 
             var solution = new _074_SearchA2DMatrix();
