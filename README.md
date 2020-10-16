@@ -1,5 +1,5 @@
 [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-824-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-825-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
 
 # LeetCode
 The C# solutions for LeetCode problems.
@@ -398,6 +398,7 @@ The C# solutions for LeetCode problems.
 | 420 | Strong Password Checker | [C#](./LeetCode/0401-0450/0420-StrongPasswordChecker.cs)(72ms) | O(N) | O(N) | |
 | 421 | Maximum XOR of Two Numbers in an Array | [C#](./LeetCode/0401-0450/0421-MaximumXOROfTwoNumbersInAnArray.cs)(152ms) | O(N) | O(N) | |
 | 422 | Valid Word Square | [C#](./LeetCode/0401-0450/0422-ValidWordSquare.cs)(96ms) | O(N*M) | O(1) | |
+| 425 | Word Squares | [C#](./LeetCode/0401-0450/0425-WordSquares.cs)(340ms) | O(N * 26^L * L) | O(N*L) | |
 | 426 | Convert Binary Search Tree to Sorted Doubly Linked List | [C#](./LeetCode/0401-0450/0426-ConvertBinarySearchTreeToSortedDoublyLinkedList.cs)(96ms) | O(N) | O(logN) | |
 | 427 | Construct Quad Tree | [C#](./LeetCode/0401-0450/0427-ConstructQuadTree.cs)(100ms) | O(N*N) | O(logN) | |
 | 428 | Serialize and Deserialize N-ary Tree | [C#](./LeetCode/0401-0450/0428-SerializeAndDeserializeNAryTree.cs)(408ms) | O(N) | O(N) | |

@@ -349,6 +349,7 @@
     <Compile Include="0401-0450\0420-StrongPasswordChecker.cs" />
     <Compile Include="0401-0450\0421-MaximumXOROfTwoNumbersInAnArray.cs" />
     <Compile Include="0401-0450\0422-ValidWordSquare.cs" />
+    <Compile Include="0401-0450\0425-WordSquares.cs" />
     <Compile Include="0401-0450\0426-ConvertBinarySearchTreeToSortedDoublyLinkedList.cs" />
     <Compile Include="0401-0450\0427-ConstructQuadTree.cs" />
     <Compile Include="0401-0450\0428-SerializeAndDeserializeNAryTree.cs" />
