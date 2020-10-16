@@ -84,7 +84,7 @@ The C# solutions for LeetCode problems.
 | 38 | Count and Say | [C#](./LeetCode/0001-0050/038-CountAndSay.cs)(80ms) | O(N<sup>2</sup>) | O(N) | Python use an dictionary of answers |
 | 39 | Combination Sum | [C#](./LeetCode/0001-0050/039-CombinationSum.cs)(236ms) | O(N!) | O(N) | |
 | 40 | Combination Sum II | [C#](./LeetCode/0001-0050/040-CombinationSum2.cs)(484ms) | O(N!) | O(N) | |
-| 41 | First Missing Positive | [C#](./LeetCode/0001-0050/041-FirstMissingPositive.cs)(92ms) | O(N) | O(1) | |
+| 41 | First Missing Positive | [C#](./LeetCode/0001-0050/041-FirstMissingPositive.cs)(84ms) | O(N) | O(1) | |
 | 42 | Trapping Rain Water | [C#](./LeetCode/0001-0050/042-TrappingRainWater.cs)(88ms) | O(N) | O(1) | |
 | 43 | Multiply Strings | [C#](./LeetCode/0001-0050/043-MultiplyStrings.cs)(140ms) | O(N*M) | O(N+M) | |
 | 44 | Wildcard Matching | [C#](./LeetCode/0001-0050/044-WildcardMatching.cs)(160ms) | O(N*M) | O(1) | Similar with [Problem No. 10](./Problems/0001-0050/010-RegularExpressionMatching.md) |
