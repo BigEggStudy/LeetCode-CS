@@ -10,7 +10,7 @@ namespace LeetCode
     {
         public double Average(int[] salary)
         {
-            int sum = 0, min = int.MaxValue, max = int.MinValue;
+            int sum = 0, min = int.Max(), max = int.Min();
             foreach (var num in salary)
             {
                 if (num < min) min = num;
